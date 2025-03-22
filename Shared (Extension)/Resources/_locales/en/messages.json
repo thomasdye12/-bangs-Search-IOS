@@ -1,0 +1,10 @@
+{
+    "extension_name": {
+        "message": "!bangs Search",
+        "description": "!bangs Search"
+    },
+    "extension_description": {
+        "message": "Use !bangs Search to do the duck duck go bangs without duck duck go, This extension needs access to the website of your default browser settings. Does not disable safari autofill suggestions",
+        "description": "Use !bangs Search to do the duck duck go bangs without duck duck go, This extension needs access to the website of your default browser settings. Does not disable safari autofill suggestions"
+    }
+}
